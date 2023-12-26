@@ -1,4 +1,4 @@
 - name: Home
   link: /
-- name: Recipes
-  link: /recipes/
+- name: Categories
+  link: /categories/
