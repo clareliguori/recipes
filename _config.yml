@@ -66,6 +66,7 @@ exclude:
   - Gemfile.lock
   - README.md
   - LICENSE
+  - vendor
 
 _options:
   author_image:
