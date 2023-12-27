@@ -3,7 +3,7 @@
 
 title: Clare's Cookbook
 description: A collection of Clare Liguori's personal recipes
-url: https://www.clareliguori.com/recipes/
+url: https://www.clareliguori.com/recipes
 baseurl: '/'
 sourceurl: https://github.com/clareliguori/recipes
 logo: /images/jam.svg
