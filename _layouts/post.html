@@ -9,6 +9,12 @@ layout: default
 	</div>
 	{% endif %}
 
+	{% if page.adapted_from %}
+	<div class="original-recipe">
+		Adapted from <a href="{{ page.adapted_from.link }}">{{ page.adapted_from.author }}'s {{ page.adapted_from.recipe_name }}</a>
+	</div>
+	{% endif %}
+
 	<div class="recipe-body">
 		{{ content }}
 	</div>

@@ -3,6 +3,10 @@ title:
 categories:
 date:
 featured_image:
+adapted_from:
+  author:
+  recipe_name:
+  link:
 recipe:
   servings:
   prep:
