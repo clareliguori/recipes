@@ -7,7 +7,7 @@
 
 		{% seo %}
 
-		<link href="//fonts.googleapis.com/css?family=Antic+Slab|Fira+Sans" rel="stylesheet">
+		<link href="//fonts.googleapis.com/css?family=Roboto+Slab|Fira+Sans" rel="stylesheet">
 		<link rel="stylesheet" media="screen" href="{{ site.baseurl }}/css/screen.css">
 		{% if page.print_stylesheet %}
 			<link rel="stylesheet" media="print" href="{{ site.baseurl }}/css/print.css">
@@ -26,9 +26,16 @@
 	<body>
 		{% include navigation.html %}
 		<header>
-			<a href="{{site.baseurl }}/">
-				<img src="{{ site.baseurl }}{{ site.data.company_details.logo_image }}" width="180" alt="logo">
+			<a href="{{ site.baseurl }}/">
+				<img src="{{ site.baseurl }}{{ site.logo }}" alt="logo">
 			</a>
+			<div class="header-title">
+				{{ site.title }}
+			</div>
+			<div class="header-description">
+				{{ site.description }}
+			</div>
+
 		</header>
 
 		<div class="container main-content">
@@ -41,6 +48,7 @@
 				&copy; {{ site.author.name }} {{ site.time | date: "%Y" }}.
 				Site source code on <a href="{{ site.sourceurl }}" target="_blank">GitHub</a>.
                 Based on the CloudCannon <a href="https://github.com/CloudCannon/treat-jekyll-template" target="_blank">Treat</a> Jekyll theme.
+				Icons created by <a href="https://www.flaticon.com/free-icon/jam_2667719">Creative Stall Premium - Flaticon</a>.
 			</div>
 		</footer>
 	</body>

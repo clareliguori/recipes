@@ -1,12 +1,13 @@
 # ----
 # Site
 
-title: Clare Liguori's recipes
+title: Clare's Cookbook
+description: A collection of Clare Liguori's personal recipes
 url: https://www.clareliguori.com/recipes/
-baseurl: '/'
+baseurl: ''
 sourceurl: https://github.com/clareliguori/recipes
+logo: /images/jam.png
 
-description: Personal recipes
 author:
   name: Clare Liguori
 social:
