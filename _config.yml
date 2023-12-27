@@ -6,7 +6,7 @@ description: A collection of Clare Liguori's personal recipes
 url: https://www.clareliguori.com/recipes/
 baseurl: '/'
 sourceurl: https://github.com/clareliguori/recipes
-logo: /images/jam.png
+logo: /images/jam.svg
 
 author:
   name: Clare Liguori
