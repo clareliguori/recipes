@@ -1,5 +1,5 @@
 ---
-date: 2023-12-27 # Last updated
+date: 2024-01-04 # Last updated
 title: Rock Cakes
 categories:
   - Snacks
@@ -9,7 +9,7 @@ adapted_from:
   recipe_name: Drop Biscuits
   link: https://food52.com/recipes/22436-drop-biscuits-with-molasses-butter
 recipe:
-  servings: 12 buns
+  servings: 12 rock cakes
   prep: 15 minutes
   cook: 15 minutes
   ingredients_markdown: |-
@@ -25,22 +25,31 @@ recipe:
     * 6 tbsp butter, cold and sliced
     * 1 egg
     * 1 tsp vanilla extract
+    * 1 cup milk
     * 1/2 cup golden raisins
     * 1/3 cup dried currants
-    * 1/2 cup milk
   directions_markdown: |-
     1. Preheat the oven to 400F. Line a baking sheet with parchment paper.
     1. In a large bowl, whisk together the flour, sugar, baking powder, and baking soda to combine.
-    1. In a separate small bowl, whisk together the egg, vanilla extract, and half of the milk (1/4 cup).
+    1. In a separate small bowl, whisk together the egg, vanilla extract, and 1/4 cup of the milk.
     1. Rub the butter into the flour mixture by hand until you have a breadcrumb consistency.
-    1. Add the egg mixture to the flour mixture, and stir with a spatula to combine. If the dough does not come together, add small amounts of the remaining milk until the dough just comes together.
-    1. Fold in the raisins and currants, half at a time.
-    1. Scoop the dough onto the parchment lined baking sheet using an ice cream scoop, forming 12 rough dough balls.
-    1. Bake at 400F for 12 - 15 minutes until golden at the top and around the edges. If you tap the bottom of the bun, it should sound hollow. Cool on a wire rack.
+    1. Add the egg mixture to the flour mixture, and stir with a spatula to combine.
+    1. Stir in small amounts of the remaining milk into the dough until you achieve a soft dropping consistency (drops off the spoon in 5 seconds), up to 1/4 cup of milk at a time.
+    1. Fold in the raisins and currants in two or three batches.
+    1. Scoop the dough onto the parchment lined baking sheet using an ice cream scoop, forming 12 rough dough balls. The goal is not a perfect ball, because we want the craggy texture of a rock cake.
+    1. Bake at 400F for 13 - 17 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow. Cool on a wire rack.
 
     Notes:
-    Avoid the butter melting as much as possible before getting the buns into the oven.
+
+    Avoid the butter melting as much as possible before getting the rock cakes into the oven.
     Measure out all the ingredients before starting to ensure you can work quickly once the butter is rubbed in.
     Leave the butter in the fridge until immediately before rubbing it into flour.
-    Before rubbing in the butter, rinse hands with very cold water.
+    Before rubbing in the butter by hand, rinse hands with very cold water to make your hands as cold as possible.
+
+    This recipe is very flexible for swapping the raisins and currants for other mix-ins like nuts and other dried fruits.
+    Keep the total amount of mix-ins to around 3/4 - 1 cup, and nothing too wet like fresh fruit.
+    I have made these variations:
+    * Heaping 3/4 cup of [mixed diced dried fruit](https://nuts.com/driedfruit/mixed-fruit/diced.html)
+    * 1/2 cup [diced dried figs] (https://nuts.com/driedfruit/figs/diced.html) and 2 oz bar of semi-sweet chocolate, chopped
+    * 1/2 cup chopped dried apricots and 1/3 cup unsweetened dried coconut
 ---
