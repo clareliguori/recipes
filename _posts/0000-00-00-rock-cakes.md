@@ -46,10 +46,11 @@ recipe:
     Leave the butter in the fridge until immediately before rubbing it into flour.
     Before rubbing in the butter by hand, rinse hands with very cold water to make your hands as cold as possible.
 
-    This recipe is very flexible for swapping the raisins and currants for other mix-ins like nuts and other dried fruits.
-    Keep the total amount of mix-ins to around 3/4 - 1 cup, and nothing too wet like fresh fruit.
+    This recipe is very flexible for swapping the raisins and currants for other mix-ins like nuts, coconut, chocolate, and other dried fruits.
+    Keep the total amount of mix-ins to somewhere between 2/3 - 1 cup, and nothing too wet like fresh fruit.
     I have made these variations:
     * Heaping 3/4 cup of [mixed diced dried fruit](https://nuts.com/driedfruit/mixed-fruit/diced.html)
     * 1/2 cup [diced dried figs](https://nuts.com/driedfruit/figs/diced.html) and 2 oz bar of semi-sweet chocolate, chopped
     * 1/2 cup chopped dried apricots and 1/3 cup unsweetened dried coconut
+    * 2/3 cup mincemeat
 ---
