@@ -7,15 +7,14 @@ categories:
 recipe:
   servings: 8 half-pint jars
   ingredients_markdown: |-
-    Spicy pineapple juice:
-    * 46 oz can pure pineapple juice
-    * 2 jalapeno peppers, sliced
-
-    Jelly ingredients
-    * 3 1/2 c spicy pineapple juice
+    * 3 1/2 c spicy pineapple juice (see below)
     * 1/2 c white vinegar
     * 7 c sugar
     * 2 (3-ounce) pouches liquid pectin
+
+    Spicy pineapple juice:
+    * 46 oz can pure pineapple juice
+    * 2 jalapeno peppers, sliced
   directions_markdown: |-
     Make the spicy pineapple juice:
     1. Strain the pineapple juice through 4 layers of cheesecloth.
