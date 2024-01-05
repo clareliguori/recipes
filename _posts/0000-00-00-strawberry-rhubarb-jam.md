@@ -9,9 +9,7 @@ adapted_from:
   recipe_name: Favorite Strawberry Jam
   link: https://www.amazon.com/Complete-Book-Small-Batch-Preserving-Year-Round/dp/1554072565
 recipe:
-  servings: 2-3 half-pints
-  prep: 36 hours
-  cook: 5 minutes
+  servings: 2-3 half-pint jars
   ingredients_markdown: |-
     * 4 cups quartered strawberries (2 clam shells)
     * 1 cup finely chopped rhubarb

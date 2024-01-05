@@ -11,7 +11,7 @@ adapted_from:
 recipe:
   servings: 12 rock cakes
   prep: 15 minutes
-  cook: 15 minutes
+  cook: 17 minutes
   ingredients_markdown: |-
     * 2 cups whole wheat pastry flour
     * 1/3 cup brown sugar
