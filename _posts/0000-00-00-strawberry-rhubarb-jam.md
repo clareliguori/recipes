@@ -1,5 +1,5 @@
 ---
-date: 2024-01-04 # Last updated
+date: 2023-09-22 # Last updated
 title: Small Batch Strawberry Rhubarb Jam
 categories:
   - Jam
