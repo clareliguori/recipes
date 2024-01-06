@@ -35,6 +35,7 @@ Pictured with some blueberry conserve I made during the same weekend.
 
 This jelly won second place in the 2022 [Washington State Fair](https://www.thefair.com/) Best Jelly Contest.
 <!--more-->
+
 The recipe is a variation on a Taste of Home magazine recipe for [Cranberry Jalapeno Jelly](https://www.tasteofhome.com/recipes/jalapeno-cranberry-jelly/),
 using the techniques in [Blue Ribbon Preserves](https://www.amazon.com/Blue-Ribbon-Preserves-Award-Winning-Marmalades/dp/1557883610) for achieving a clear, sparkling jelly.
 The judges' comments included "Beautifully clear!", "clean finish", and "very aesthetically pleasing".

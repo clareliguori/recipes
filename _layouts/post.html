@@ -9,16 +9,6 @@ layout: default
 	</div>
 	{% endif %}
 
-	{% if page.adapted_from %}
-	<div class="original-recipe">
-		Adapted from <a href="{{ page.adapted_from.link }}">{{ page.adapted_from.author }}'s {{ page.adapted_from.recipe_name }}</a>
-	</div>
-	{% endif %}
-
-	<div class="recipe-body">
-		{{ content }}
-	</div>
-
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
 		{% if page.recipe.prep %}
@@ -28,6 +18,16 @@ layout: default
 			<li title="Cook Time">{% include recipe-icon.html icon="cook" %}<span>{{ page.recipe.cook }}</span></li>
 		{% endif %}
 	</ul>
+
+	{% if page.adapted_from %}
+	<div class="original-recipe">
+		Adapted from <a href="{{ page.adapted_from.link }}">{{ page.adapted_from.author }}'s {{ page.adapted_from.recipe_name }}</a>
+	</div>
+	{% endif %}
+
+	<div class="recipe-body">
+		{{ content }}
+	</div>
 
 	<div class="recipe-contents">
 		<div class="ingredients">

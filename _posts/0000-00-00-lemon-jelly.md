@@ -38,6 +38,7 @@ It is pictured in the middle, among my other entries to the fair that year.
 
 When I picked up the ribbons at the end of the fair, one of the judges asked me "How did you get your lemon jelly to be so clear?!".
 <!--more-->
+
 This recipe was mostly a science experiment of how clear I could make a citrus jelly for competition.
 Transparency is one of the most important criteria for judging jellies in competition, and citrus juice is very cloudy.
 In my experience, the usual straining tools of cheesecloth and coffee filters don't work well with citrus juice.
