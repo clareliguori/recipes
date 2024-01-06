@@ -3,7 +3,7 @@ date: 2023-09-22 # Last updated
 title: Small Batch Strawberry Rhubarb Jam
 categories:
   - Jam
-#featured_image:
+featured_image: /images/food/strawberry-rhubarb-jam.jpg
 adapted_from:
   author: Complete Book of Small-Batch Preserving
   recipe_name: Favorite Strawberry Jam
@@ -24,4 +24,6 @@ recipe:
     1. Bring mixture to a full boil over high heat and boil rapidly for 5 minutes, stirring constantly. Remove from heat.
     1. Skim off any foam and ladle into hot jars, leaving 1/4 inch headspace. Process in a boiling water bath for 10 minutes.
 ---
+Pictured in the middle, along with mincemeat, peach melba jelly, and hibiscus mint jelly I made the same weekend.
+
 This jam won second place in the 2023 [Washington State Fair](https://www.thefair.com/) Best Jam Contest.
