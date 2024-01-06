@@ -1,6 +1,7 @@
 ---
 date: 2023-09-22 # Last updated
 title: Small Batch Strawberry Rhubarb Jam
+excerpt_separator: <!--more-->
 categories:
   - Jam
 featured_image: /images/food/strawberry-rhubarb-jam.jpg
@@ -27,3 +28,4 @@ recipe:
 Pictured in the middle, along with mincemeat, peach melba jelly, and hibiscus mint jelly I made the same weekend.
 
 This jam won second place in the 2023 [Washington State Fair](https://www.thefair.com/) Best Jam Contest.
+<!--more-->
