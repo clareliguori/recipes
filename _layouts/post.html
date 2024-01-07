@@ -5,9 +5,13 @@ layout: default
 	{% include post-heading.html post=page post_page=true %}
 	{% if page.featured_image %}
 	<div class="image">
-		<img src="{{ site.baseurl }}{{ page.featured_image }}" alt="{{ page.title }}">
+		<img src="{{ site.baseurl }}/images/food/{{ page.featured_image }}" alt="{{ page.title }}">
 	</div>
 	{% endif %}
+
+	<div class="recipe-body">
+		{{ content }}
+	</div>
 
 	<ul id="recipe" class="recipe-overview">
 		<li title="Servings">{% include recipe-icon.html icon="quantity" %}<span>{{ page.recipe.servings }}</span></li>
@@ -24,10 +28,6 @@ layout: default
 		Adapted from <a href="{{ page.adapted_from.link }}">{{ page.adapted_from.author }}'s {{ page.adapted_from.recipe_name }}</a>
 	</div>
 	{% endif %}
-
-	<div class="recipe-body">
-		{{ content }}
-	</div>
 
 	<div class="recipe-contents">
 		<div class="ingredients">

@@ -3,7 +3,7 @@ date: 2024-01-04 # Last updated
 title: Rock Cakes
 categories:
   - Snacks
-featured_image: /images/food/rock-cakes.jpg
+featured_image: rock-cakes.jpg
 adapted_from:
   author: Erin Jeanne McDowell
   recipe_name: Drop Biscuits

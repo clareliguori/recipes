@@ -3,7 +3,7 @@ date: 2024-01-04 # Last updated
 title: Mince Pies
 categories:
   - Snacks
-featured_image: /images/food/mince-pies.jpg
+featured_image: mince-pies.jpg
 recipe:
   servings: 12 mince pies
   prep: 10 minutes

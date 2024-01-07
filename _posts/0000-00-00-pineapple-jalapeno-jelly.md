@@ -4,7 +4,7 @@ title: Pineapple Jalapeno Jelly
 excerpt_separator: <!--more-->
 categories:
   - Jam
-featured_image: /images/food/pineapple-jelly.jpg
+featured_image: pineapple-jelly.jpg
 recipe:
   servings: 8 half-pint jars
   ingredients_markdown: |-

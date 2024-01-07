@@ -4,7 +4,7 @@ title: Small Batch Strawberry Rhubarb Jam
 excerpt_separator: <!--more-->
 categories:
   - Jam
-featured_image: /images/food/strawberry-rhubarb-jam.jpg
+featured_image: strawberry-rhubarb-jam.jpg
 adapted_from:
   author: Complete Book of Small-Batch Preserving
   recipe_name: Favorite Strawberry Jam

@@ -3,7 +3,7 @@ date: 2016-08-29 # Last updated
 title: Lemon Jelly
 categories:
   - Jam
-featured_image: /images/food/lemon-jelly.jpg
+featured_image: lemon-jelly.jpg
 recipe:
   servings: 4-5 half-pint jars
   ingredients_markdown: |-
@@ -50,7 +50,9 @@ Agar-agar powder is sometimes used for making lemon jello-type jellies and candi
 In this clarification technique, the lemon juice is temporarily gelled using the agar juice (pictured below) and then strained out of the gel,
 leaving the particles in the juice stuck to the agar gel and yielding a clear juice.
 
-![Lemon juice gelled with agar-agar powder](/images/food/lemon-jelly-clarification.jpg)
+<div class="image">
+  <img src="{{ site.baseurl }}/images/food/lemon-jelly-clarification.jpg" alt="Lemon juice gelled with agar-agar powder">
+</div>
 
 The resulting lemon jelly did not have a very strong lemon flavor, but was sparkling clear and bright yellow.
 Reducing the lemon juice a bit in the beginning could potentially help to give the jelly a stronger lemon flavor.
