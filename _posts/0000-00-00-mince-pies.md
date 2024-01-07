@@ -9,13 +9,13 @@ recipe:
   prep: 10 minutes
   cook: 18 minutes
   ingredients_markdown: |-
-    * 1 package store-bought pie crust, such as Pillsbury
-    * 1 cup mincemeat (see note below)
+    * 1 package store-bought pie crusts, such as Pillsbury
+    * 1 cup mincemeat (see note)
     * 1 egg
 
     Equipment:
     * [Mince pie pan](https://www.amazon.com/dp/B000FU8DP4)
-    * [Graduated round cookie cutters](https://www.amazon.com/Ateco-5357-Cutters-Graduated-Stainless/dp/B00004S1CI)
+    * [Graduated round cookie cutters](https://www.amazon.com/gp/product/B0013374XO/)
   directions_markdown: |-
     1. Preheat the oven to 400F.
     1. Unroll one pie crust. Use a round cookie cutter slightly larger than the pie pan's cups to cut out 12 circles to form the bottom crusts for the mince pies. Gently press a crust circle into each hole.
