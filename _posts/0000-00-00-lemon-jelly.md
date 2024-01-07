@@ -1,6 +1,7 @@
 ---
 date: 2016-08-29 # Last updated
 title: Lemon Jelly
+excerpt_separator: <!--more-->
 categories:
   - Jam
 featured_image: lemon-jelly.jpg
