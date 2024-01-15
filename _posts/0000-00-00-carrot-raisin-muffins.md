@@ -36,3 +36,4 @@ recipe:
     1. Let cool in the muffin pan for 2 minutes, then let cool completely on a wire rack.
 
     To make this as a carrot-raisin quick bread, use an 8x8 square baking pan. Bake for 25-27 minutes.
+---
