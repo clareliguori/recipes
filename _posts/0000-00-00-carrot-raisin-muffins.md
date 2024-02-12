@@ -20,8 +20,8 @@ recipe:
     * 1/2 tsp nutmeg
     * 1 cup applesauce
     * 1 egg
-    * 1/4 cup honey
-    * 4 tbsp melted butter (can substitute coconut oil for dairy-free)
+    * 1/4 cup honey or maple syrup
+    * 4 tbsp melted butter (for dairy-free, use plant butter such as Miyoko's)
     * 1 tsp vanilla extract
     * 1 cup grated carrots
     * 1/3 cup golden raisins
