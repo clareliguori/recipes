@@ -48,11 +48,13 @@ recipe:
 
     This recipe is very flexible for swapping the raisins and currants for other mix-ins like nuts, coconut, chocolate, and other dried fruits.
     Keep the total amount of mix-ins to somewhere between 2/3 - 1 cup.
+
     I have made these variations:
     * Heaping 3/4 cup of [mixed diced dried fruit](https://nuts.com/driedfruit/mixed-fruit/diced.html)
     * 1/2 cup [diced dried figs](https://nuts.com/driedfruit/figs/diced.html) and 2 oz bar of semi-sweet chocolate, chopped
     * 1/2 cup chopped dried apricots and 1/3 cup unsweetened dried coconut
     * 2/3 cup mincemeat
+
     Fresh fruit can be tricky because the moisture level tends to be inconsistent.
     I have had success with [strawberry rhubarb rock cakes](rock-cakes-strawberry-rhubarb).
 ---

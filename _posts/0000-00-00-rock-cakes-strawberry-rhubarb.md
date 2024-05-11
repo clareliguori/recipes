@@ -10,7 +10,7 @@ adapted_from:
   link: https://www.allrecipes.com/strawberry-rhubarb-drop-biscuits-recipe-7495124
 recipe:
   servings: 12 rock cakes
-  prep: 15 minutes
+  prep: 1 hour 30 minutes
   cook: 17 minutes
   ingredients_markdown: |-
     * 1 cup diced rhubarb (about 1.5 - 2 stalks)
