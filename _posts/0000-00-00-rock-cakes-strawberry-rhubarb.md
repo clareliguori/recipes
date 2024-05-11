@@ -42,7 +42,7 @@ recipe:
     The consistency should be a bit drier than the soft dropping consistency I aim for with my [regular rock cakes](rock-cakes),
     because the fruit will release more moisture as it bakes.
     1. Scoop the dough onto the parchment lined baking sheet using an ice cream scoop, forming 12 rough dough balls. The goal is not a perfect ball, because we want the craggy texture of a rock cake.
-    1. Bake at 400F for 15 - 20 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow. Cool on a wire rack.
+    1. Bake at 400F for 15 - 20 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow (though some might not if the fruit is close to the bottom of the rock cake). Cool on a wire rack.
 
     Notes:
 
