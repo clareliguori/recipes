@@ -3,7 +3,7 @@ date: 2024-05-11 # Last updated
 title: Strawberry Rhubarb Rock Cakes
 categories:
   - Snacks
-featured_image: strawberry-rhubarb-rock-cakes.jpg
+featured_image: rock-cakes-strawberry-rhubarb.jpg
 adapted_from:
   author: Food Wishes (John Mitzewich)
   recipe_name: Strawberry Rhubarb Drop Biscuits
@@ -11,7 +11,7 @@ adapted_from:
 recipe:
   servings: 12 rock cakes
   prep: 1 hour 30 minutes
-  cook: 17 minutes
+  cook: 20 minutes
   ingredients_markdown: |-
     * 1 cup diced rhubarb (about 1.5 - 2 stalks)
     * 1 cup diced strawberries
@@ -39,9 +39,10 @@ recipe:
     1. Pat the strained fruit mixture with paper towels to remove as much moisture as possible. Mix the fruit into the flour mixture until the fruit is coated in flour.
     1. Add the egg mixture to the flour mixture, and stir with a spatula to combine.
     1. Stir in small amounts of the remaining milk into the dough until it comes together, up to 1/4 cup of milk at a time.
-    The consistency should be a bit drier than regular rock cakes, because the fruit will release more moisture as it bakes.
+    The consistency should be a bit drier than the soft dropping consistency I aim for with my [regular rock cakes](rock-cakes),
+    because the fruit will release more moisture as it bakes.
     1. Scoop the dough onto the parchment lined baking sheet using an ice cream scoop, forming 12 rough dough balls. The goal is not a perfect ball, because we want the craggy texture of a rock cake.
-    1. Bake at 400F for 13 - 17 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow. Cool on a wire rack.
+    1. Bake at 400F for 15 - 20 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow. Cool on a wire rack.
 
     Notes:
 
