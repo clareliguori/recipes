@@ -34,12 +34,12 @@ recipe:
     1. Preheat the oven to 400F. Line a baking sheet with parchment paper.
     1. In a large bowl, whisk together the flour, brown sugar, baking powder, baking soda, and spices to combine.
     1. In a separate small bowl, whisk together the egg, vanilla extract, and 1/4 cup of the milk.
+    1. Drain the fruit mixture in a sieve set over a bowl. Add 2 tbsp of the fruit syrup to the egg mixture. Pat the strained fruit mixture with paper towels to remove as much moisture as possible.
     1. Rub the butter into the flour mixture by hand until you have a breadcrumb consistency.
-    1. Drain the fruit mixture in a sieve set over a bowl. Add 2 tbsp of the fruit syrup to the egg mixture.
-    1. Pat the strained fruit mixture with paper towels to remove as much moisture as possible. Mix the fruit into the flour mixture until the fruit is coated in flour.
+    1.  Mix the fruit into the flour mixture until the fruit is coated in flour.
     1. Add the egg mixture to the flour mixture, and stir with a spatula to combine.
-    1. Stir in small amounts of the remaining milk into the dough until it comes together, up to 1/4 cup of milk at a time.
-    The consistency should be a bit drier than the soft dropping consistency I aim for with my [regular rock cakes](rock-cakes),
+    1. Stir in small amounts of the remaining milk into the dough until it just comes together, up to 1/4 cup of milk at a time.
+    The consistency should be a bit drier and shaggier than the soft dropping consistency I aim for with my [regular rock cakes](rock-cakes),
     because the fruit will release more moisture as it bakes.
     1. Scoop the dough onto the parchment lined baking sheet using an ice cream scoop, forming 12 rough dough balls. The goal is not a perfect ball, because we want the craggy texture of a rock cake.
     1. Bake at 400F for 15 - 20 minutes until golden at the top and around the edges. If you tap the bottom of a rock cake, it should sound hollow (though some might not if the fruit is close to the bottom of the rock cake). Cool on a wire rack.
