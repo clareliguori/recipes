@@ -50,4 +50,6 @@ recipe:
     Measure out all the ingredients before starting to ensure you can work quickly once the butter is rubbed in.
     Leave the butter in the fridge until immediately before rubbing it into flour.
     Before rubbing in the butter by hand, rinse hands with very cold water to make your hands as cold as possible.
+
+    This recipe can be made with only strawberries. Omit the rhubarb and white sugar, and skip maceration.
 ---
